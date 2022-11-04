@@ -10,10 +10,10 @@
    ### Backend 
   - Built with Java Spring Boot framework. Deployed on Heroku. [Link](https://ryd-backend.herokuapp.com/)\
   
-  ## Author :black_nib:
+   ### Author :black_nib:
 
-- **Edward Lampoh** - <[edielam](https://github.com/edielam)>
+   **Edward Lampoh** - <[edielam](https://github.com/edielam)>
 
-  ## License :lock:
+   ### License :lock:
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+   This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
