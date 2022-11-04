@@ -8,7 +8,7 @@
 
 
    ### Backend 
-  - Built with Java Spring Boot framework. Deployed on Heroku. [Link](https://ryd-backend.herokuapp.com/)\
+  - Built with Java Spring Boot framework. Deployed on Heroku. [Link](https://ryd-backend.herokuapp.com/)
   
    ### Author :black_nib:
 
