@@ -12,7 +12,7 @@
   
    ### Author :black_nib:
 
-   **Edward Lampoh** - <[edielam](https://github.com/edielam)> &emsp; &emsp; [![RdPw Screen shot 2011 02 06 at 16 14 53](http://farm6.static.flickr.com/5136/5421259125_ea06d67675_o.png)](https://twitter.com/edie_I_AM)
+   **Edward Lampoh** - <[edielam](https://github.com/edielam)> 
 
    ### License :lock:
 
